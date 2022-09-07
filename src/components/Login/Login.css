@@ -1,0 +1,8 @@
+.log-img{
+    background-size: cover;
+    height: 90vh;
+    transform: translateY(40px);
+}
+.form{
+background-color: rgb(244, 237, 237);
+}
